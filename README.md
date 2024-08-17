@@ -5,8 +5,9 @@
 ###  🥪 Tost API Examples
 https://tost.ai
 
-### 🧬 flux.1-dev-tost-api [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/flux.1-dev-tost-api.ipynb)
-
+| Notebook | Info
+| --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/flux.1-dev-tost-api.ipynb) | Flux.1 [dev] + Loras
 ```py
 import requests
 
