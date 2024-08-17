@@ -2,16 +2,10 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
-###  🥪 Tost
+###  🥪 Tost API Examples
 https://tost.ai
 
-### 🍊 Jupyter Notebook  Tost API Examples
-
-| Notebook | Info
-| --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/flux.1-dev-tost-api.ipynb) | flux.1-dev-tost-api.ipynb
-
-### 🧬 Code
+### 🧬 flux.1-dev-tost-api [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/flux.1-dev-tost-api.ipynb)
 
 ```py
 import requests
