@@ -13,8 +13,8 @@ import requests
 
 url = "https://dev.tost.ai/api/v1"
 headers = {
-    "Content-Type": "application/json"
-    "Authorization": "API_KEY_HERE",
+    "Content-Type": "application/json",
+    "Authorization": "API_KEY_HERE"
 }
 data = {
     "app": "flux.1-dev",
