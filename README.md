@@ -20,6 +20,7 @@ data = {
     "app": "flux.1-dev",
     "command": {
         "positive_prompt": "cute anime cat",
+        "seed": 0,
         "steps": 20,
         "guidance": 3.5,
         "lora_file": "xlabs_realism.safetensors",
