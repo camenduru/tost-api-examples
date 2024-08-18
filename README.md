@@ -10,7 +10,7 @@ https://tost.ai
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/flux.1-dev.ipynb) | flux.1-dev
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/chat-meta-llama-3.1-8b-instruct.ipynb) | chat-meta-llama-3.1-8b-instruct
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/instant-mesh.ipynb) | instant-mesh
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/comfyui-ultralytics-upscaler.ipynb) | comfyui-ultralytics-upscaler
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/comfyui-ultralytics-upscaler.ipynb) | comfyui-ultralytics-upscaler (Upscaler v2.0)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/onevision-flux.1-dev.ipynb) | onevision-flux.1-dev
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/live-portrait-i2v.ipynb) | live-portrait-i2v
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/live-portrait-v2v.ipynb) | live-portrait-v2v
