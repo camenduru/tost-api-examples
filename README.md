@@ -11,7 +11,7 @@ https://tost.ai
 ```py
 import requests
 
-url = "https://dev.tost.ai/api/v1"
+url = "https://tost.ai/api/v1"
 headers = {
     "Content-Type": "application/json",
     "Authorization": "API_KEY_HERE"
