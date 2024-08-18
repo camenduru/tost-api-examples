@@ -5,7 +5,7 @@
 ###  🥪 Tost API Examples
 https://tost.ai
 
-| Notebook | Info
+| Notebook | Tost API v1 Examples
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/flux.1-dev.ipynb) | flux.1-dev
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/chat-meta-llama-3.1-8b-instruct.ipynb) | chat-meta-llama-3.1-8b-instruct
