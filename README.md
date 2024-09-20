@@ -53,3 +53,4 @@ https://tost.ai
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/dd-color.ipynb) | dd-color
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/diff-bir.ipynb) | diff-bir
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/cogvideox-5b-i2v.ipynb) | cogvideox-5b-i2v
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/marigold-depth-normal.ipynb) | marigold-depth-normal
