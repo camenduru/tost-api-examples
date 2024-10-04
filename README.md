@@ -60,3 +60,4 @@ https://tost.ai
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/advanced-live-portrait.ipynb) | advanced-live-portrait
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/triposr.ipynb) | triposr
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/mimic-motion.ipynb) | mimic-motion
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/real-flux.1-dev.ipynb) | real-flux.1-dev
