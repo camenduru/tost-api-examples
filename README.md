@@ -63,3 +63,4 @@ https://tost.ai
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/real-flux.1-dev.ipynb) | real-flux.1-dev
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/flux.1-dev-upscaler.ipynb) | flux.1-dev-upscaler
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/stable-diffusion-3.5-large.ipynb) | stable-diffusion-3.5-large
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/inpaint-flux.ipynb) | inpaint-flux
