@@ -84,4 +84,5 @@ https://tost.ai
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/outpaint-flux-fill.ipynb) | outpaint-flux-fill
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/ltx-t2v.ipynb) | ltx-t2v
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/flux.1-dev-redux.ipynb) | flux.1-dev-redux
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/flux.1-dev-distill.ipynb) | flux.1-dev-distill
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/trellis.ipynb) | trellis
