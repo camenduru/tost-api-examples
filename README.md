@@ -82,3 +82,4 @@ https://tost.ai
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/text-behind-image.ipynb) | text-behind-image
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/in-context-lora.ipynb) | in-context-lora
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/outpaint-flux-fill.ipynb) | outpaint-flux-fill
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/trellis.ipynb) | trellis
