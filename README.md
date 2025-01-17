@@ -92,3 +92,4 @@ https://tost.ai
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/hunyuan-video.ipynb) | hunyuan-video
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/trellis.ipynb) | trellis
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/trellis-pro.ipynb) | trellis-pro
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tost-api-examples/blob/main/v1/trellis-multi.ipynb) | trellis-multi
